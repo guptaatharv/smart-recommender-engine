@@ -2,7 +2,7 @@ import json
 import os
 import numpy as np
 
-DB_FILE = "database.json"
+DB_FILE = "data/database.json"
 
 
 def initialize_database():
