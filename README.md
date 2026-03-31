@@ -42,7 +42,7 @@ Upon launching the CLI, you will be prompted to:
 - Rate your **CPU** (out of 10)
 - Rate your **GPU** (out of 10)
 - Enter your **RAM** (in GB)
-  ![Terminal Output](output/pc_making_requirements_out.png
+  ![Terminal Output](output/pc_making_requirements_out.png)
 
 ---
 
