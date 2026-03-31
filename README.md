@@ -42,7 +42,6 @@ Upon launching the CLI, you will be prompted to:
 - Rate your **CPU** (out of 10)
 - Rate your **GPU** (out of 10)
 - Enter your **RAM** (in GB)
-  ![Terminal Output](output/pc_making_requirements_out.png)
 
 ---
 
@@ -62,6 +61,8 @@ The engine will display:
 
 - 🎮 A **ranked list of recommended games**
 - 📈 A **Match Percentage** for each game
+
+ ![Terminal Output](output/pc_making_requirements_out.png)
 
 #### Compatibility Indicators:
 - ✅ Your PC **can run the game**
