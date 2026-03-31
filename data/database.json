@@ -1,0 +1,32 @@
+{
+        "games": [
+            {"id": 1,  "title": "Cyber-City 2088",         "tags": ["sci-fi", "rpg", "open-world", "action"],          "req_cpu": 8, "req_gpu": 8, "req_ram": 16},
+            {"id": 2,  "title": "Farm Simulator X",         "tags": ["casual", "farming", "multiplayer", "relaxing"],   "req_cpu": 3, "req_gpu": 2, "req_ram": 4},
+            {"id": 3,  "title": "Galactic Shooter",         "tags": ["action", "sci-fi", "fps", "multiplayer"],         "req_cpu": 6, "req_gpu": 6, "req_ram": 8},
+            {"id": 4,  "title": "Fantasy Quest",            "tags": ["rpg", "fantasy", "open-world", "singleplayer"],   "req_cpu": 5, "req_gpu": 5, "req_ram": 8},
+            {"id": 5,  "title": "Pixel Dungeon",            "tags": ["rpg", "pixel", "roguelike", "singleplayer"],      "req_cpu": 2, "req_gpu": 1, "req_ram": 2},
+            {"id": 6,  "title": "Neon Racer Underground",   "tags": ["racing", "arcade", "multiplayer", "neon"],        "req_cpu": 5, "req_gpu": 6, "req_ram": 8},
+            {"id": 7,  "title": "Shadow Protocol",          "tags": ["stealth", "action", "thriller", "singleplayer"],  "req_cpu": 7, "req_gpu": 7, "req_ram": 12},
+            {"id": 8,  "title": "Minecraft Realms 2",       "tags": ["sandbox", "survival", "multiplayer", "casual"],   "req_cpu": 4, "req_gpu": 3, "req_ram": 8},
+            {"id": 9,  "title": "Stellar Conquest",         "tags": ["strategy", "sci-fi", "4x", "singleplayer"],       "req_cpu": 6, "req_gpu": 4, "req_ram": 16},
+            {"id": 10, "title": "Haunted Hollow",           "tags": ["horror", "survival", "puzzle", "singleplayer"],   "req_cpu": 5, "req_gpu": 5, "req_ram": 8},
+            {"id": 11, "title": "Iron Battalion",           "tags": ["ww2", "strategy", "multiplayer", "simulation"],   "req_cpu": 7, "req_gpu": 6, "req_ram": 12},
+            {"id": 12, "title": "Cursed Kingdoms",          "tags": ["dark-fantasy", "rpg", "souls-like", "singleplayer"], "req_cpu": 8, "req_gpu": 9, "req_ram": 16},
+            {"id": 13, "title": "Velocity Strike",          "tags": ["fps", "esports", "competitive", "multiplayer"],   "req_cpu": 6, "req_gpu": 5, "req_ram": 8},
+            {"id": 14, "title": "Ancient Horizons",         "tags": ["historical", "open-world", "adventure", "singleplayer"], "req_cpu": 9, "req_gpu": 9, "req_ram": 24},
+            {"id": 15, "title": "Cozy Cafe Tycoon",         "tags": ["casual", "tycoon", "management", "relaxing"],     "req_cpu": 2, "req_gpu": 1, "req_ram": 4},
+            {"id": 16, "title": "Deep Sea Chronicles",      "tags": ["exploration", "survival", "underwater", "singleplayer"], "req_cpu": 6, "req_gpu": 7, "req_ram": 12},
+            {"id": 17, "title": "Mech Arena Wars",          "tags": ["mech", "action", "sci-fi", "multiplayer"],        "req_cpu": 7, "req_gpu": 8, "req_ram": 16},
+            {"id": 18, "title": "Verdant Valley",           "tags": ["farming", "life-sim", "casual", "multiplayer"],   "req_cpu": 3, "req_gpu": 2, "req_ram": 4},
+            {"id": 19, "title": "Quantum Break: Origins",   "tags": ["sci-fi", "puzzle", "time-travel", "singleplayer"], "req_cpu": 7, "req_gpu": 6, "req_ram": 12},
+            {"id": 20, "title": "Battle Royale: Zero Hour", "tags": ["battle-royale", "fps", "survival", "multiplayer"], "req_cpu": 8, "req_gpu": 8, "req_ram": 16}
+        ],
+        "hardware": [
+            {"type": "cpu", "name": "Budget Core i3",    "score": 3,  "price": "$100"},
+            {"type": "cpu", "name": "Mid-Range Ryzen 5", "score": 6,  "price": "$200"},
+            {"type": "cpu", "name": "High-End Core i9",  "score": 9,  "price": "$500"},
+            {"type": "gpu", "name": "Basic GTX 1650",    "score": 4,  "price": "$150"},
+            {"type": "gpu", "name": "Solid RTX 3060",    "score": 7,  "price": "$300"},
+            {"type": "gpu", "name": "Ultra RTX 4090",    "score": 10, "price": "$1600"}
+        ]
+    }
