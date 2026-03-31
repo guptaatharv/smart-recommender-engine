@@ -24,3 +24,45 @@ Gamers often purchase games they cannot run, while PC users hesitate to upgrade 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/YOUR_USERNAME/smart-recommender-engine.git
+2. **Navigate to the directory:**
+   ```bash
+   cd smart-recommender-engine
+3. **Install the required dependencies**
+   ```bash
+   Install the required dependencies
+4. **Run the application:**
+   ```bash
+   python smart_recommender.py
+
+
+## 🎮 How It Works (Usage)
+
+### 🖥️ Step 1: Enter System Specifications
+Upon launching the CLI, you will be prompted to:
+- Rate your **CPU** (out of 10)
+- Rate your **GPU** (out of 10)
+- Enter your **RAM** (in GB)
+
+---
+
+### 🎯 Step 2: Choose an Action
+- Select `1` from the main menu to search for games
+
+---
+
+### 🎨 Step 3: Enter Preferences
+- Input genres you like  
+  *(e.g., sci-fi, action, rpg)*
+
+---
+
+### 📊 Step 4: View Results
+The engine will display:
+
+- 🎮 A **ranked list of recommended games**
+- 📈 A **Match Percentage** for each game
+
+#### Compatibility Indicators:
+- ✅ Your PC **can run the game**
+- ❌ Your PC **cannot run the game**
+  - Includes **specific hardware upgrade suggestions**
